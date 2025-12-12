@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // Start ekran yazısı
-  const startMessage = "Ne duruyorsun tıkla ve giriş yap..";
+  const startMessage = "Ne duruyorsun tıkla ve giriş yap...";
   let startTextContent = "";
   let startIndex = 0;
   let startCursorVisible = true;
@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }, 500);
 
 // İsim typewriter (G hep kalsın)
-  const name = "GALSEYZ";
+  const name = "efe218";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
